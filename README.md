@@ -2,7 +2,7 @@
 
 Enhanced dark theme for Google Docs with customizable accent colors, plus a beautiful website.
 
-[![CI](https://github.com/ameyalambat128/dark-docs-2.0/workflows/CI/badge.svg)](https://github.com/ameyalambat128/dark-docs-2.0/actions)
+[![Build and Release](https://github.com/ameyalambat/dark-docs-2.0/actions/workflows/release.yml/badge.svg)](https://github.com/ameyalambat/dark-docs-2.0/actions/workflows/release.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Dark%20Docs%202.0-blue)](https://chromewebstore.google.com/detail/docs-dark-20/djmmkojigpkdagglmjjdjiddopgdchcn)
 [![Website](https://img.shields.io/badge/Website-darkdocs.ameyalambat.com-green)](https://darkdocs.ameyalambat.com)
@@ -32,7 +32,7 @@ Enhanced dark theme for Google Docs with customizable accent colors, plus a beau
 ### For Developers
 ```bash
 # Clone the repository
-git clone https://github.com/ameyalambat128/dark-docs-2.0.git
+git clone https://github.com/ameyalambat/dark-docs-2.0.git
 cd dark-docs-2.0
 
 # Install dependencies
@@ -77,7 +77,7 @@ docs-dark-chrome/
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/ameyalambat128/dark-docs-2.0.git
+git clone https://github.com/ameyalambat/dark-docs-2.0.git
 cd dark-docs-2.0
 ```
 
@@ -201,7 +201,7 @@ We welcome contributions! Please see our [Contributing Guide](.github/CONTRIBUTI
 
 - **Bug Reports**: Use the [Bug Report Template](.github/ISSUE_TEMPLATE/bug_report.md)
 - **Feature Requests**: Use the [Feature Request Template](.github/ISSUE_TEMPLATE/feature_request.md)
-- **General Questions**: Start a [Discussion](https://github.com/ameyalambat128/dark-docs-2.0/discussions)
+- **General Questions**: [Open an issue](https://github.com/ameyalambat/dark-docs-2.0/issues)
 
 ## 📄 License
 
@@ -216,11 +216,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/ameyalambat128/dark-docs-2.0)
-![GitHub forks](https://img.shields.io/github/forks/ameyalambat128/dark-docs-2.0)
-![GitHub issues](https://img.shields.io/github/issues/ameyalambat128/dark-docs-2.0)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/ameyalambat128/dark-docs-2.0)
+![GitHub stars](https://img.shields.io/github/stars/ameyalambat/dark-docs-2.0)
+![GitHub forks](https://img.shields.io/github/forks/ameyalambat/dark-docs-2.0)
+![GitHub issues](https://img.shields.io/github/issues/ameyalambat/dark-docs-2.0)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ameyalambat/dark-docs-2.0)
 
 ---
 
-**Made with ❤️ by [Ameya Lambat](https://github.com/ameyalambat128)**
+**Made with ❤️ by [Ameya Lambat](https://github.com/ameyalambat)**

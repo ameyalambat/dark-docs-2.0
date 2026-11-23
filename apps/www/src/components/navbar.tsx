@@ -47,7 +47,7 @@ export default function Navbar() {
             />
           </a>
           <a
-            href="https://github.com/ameyalambat128/dark-docs-2.0"
+            href="https://github.com/ameyalambat/dark-docs-2.0"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"
